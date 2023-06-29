@@ -1,6 +1,6 @@
 # Web_login
 
-Aplicación web que válida si los datos: Usuario y Contraseña, se encuentran definidos en la Base de datos logins.bd, ubicada dentro de la carpeta database.
+Aplicación web que válida si los datos: Usuario y Contraseña, se encuentran definidos en la Base de datos logins.db, ubicada dentro de la carpeta database.
 
  === Dependencias ===
 blinker==1.6.2
