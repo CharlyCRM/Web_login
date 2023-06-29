@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(209, 222, 209);
+}
+
+.titulo {
+    font-family: 'Kablammo', cursive;
+    color: green;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
