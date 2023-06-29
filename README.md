@@ -4,6 +4,7 @@ Aplicación web que válida si los datos: Usuario y Contraseña, se encuentran d
 
  === Dependencias ===
 
+- Python3
 - blinker==1.6.2
 - click==8.1.3
 - Flask==2.3.2
